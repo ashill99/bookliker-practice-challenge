@@ -1,6 +1,18 @@
 {
   "books": [
     {
+      "0": {
+        "id": 2,
+        "username": "auer"
+      },
+      "1": {
+        "id": 8,
+        "username": "maverick"
+      },
+      "2": {
+        "id": 1,
+        "username": "pouros"
+      },
       "id": 1,
       "title": "Grapefruit",
       "subtitle": "A book of Instruction and Drawings.",
@@ -15,6 +27,14 @@
         {
           "id": 8,
           "username": "maverick"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
+        },
+        {
+          "id": 1,
+          "username": "pouros"
         }
       ]
     },
@@ -120,6 +140,15 @@
       ]
     },
     {
+      "0": {
+        "id": 3,
+        "username": "marvin"
+      },
+      "1": {
+        "id": 5,
+        "username": "feels-like-summer"
+      },
+      "2": {},
       "id": 7,
       "title": "The Collected Schizophrenias",
       "subtitle": "",
@@ -138,6 +167,19 @@
       ]
     },
     {
+      "0": {
+        "id": 9,
+        "username": "alex"
+      },
+      "1": {
+        "id": 3,
+        "username": "marvin"
+      },
+      "2": {
+        "id": 2,
+        "username": "auer"
+      },
+      "3": {},
       "id": 8,
       "title": "The Autobiography of Malcolm X",
       "subtitle": "As Told to Alex Haley",
@@ -200,6 +242,18 @@
       ]
     },
     {
+      "0": {
+        "id": 8,
+        "username": "maverick"
+      },
+      "1": {
+        "id": 10,
+        "username": "macejkovic"
+      },
+      "2": {
+        "id": 1,
+        "username": "pouros"
+      },
       "id": 11,
       "title": "Behold the Dreamers",
       "subtitle": "",
